@@ -1,2 +1,4 @@
 # Mindmap
-Web application to draw mind maps.
+Aplicação web para desenhar mapas mentais.
+
+forked by https://github.com/Asikur22/mindmap
